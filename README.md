@@ -1,5 +1,5 @@
 # Job-Vacancy-System
-This repository contains a simple web application designed to manage job vacancies and candidate applications. The system allows users to create new job listings, view and manage existing jobs, and register candidates for specific positions.
+This repository contains a web-based application developed for study purposes, designed to manage job vacancies and candidate applications. The system allows users to create new job listings, view and manage existing jobs, and register candidates for specific positions.
 ## Features.
 - **Job Management:** Users can create job listings with details such as job name, description, and application deadline. Each job can track the number of candidates applied.
 - **Candidate Registration:** Candidates can be added to specific job listings, allowing for easy tracking of applications.
@@ -11,4 +11,4 @@ This repository contains a simple web application designed to manage job vacanci
 - **HTML:** Provides the structure for the web application.
 - **JavaScript:** Powers the interactive features of the application, handling job and candidate data management.
 ## Usage.
-To use the application, simply open the index.html file in a web browser. The application will prompt you through a series of options to manage job listings and candidates.
+To use the application, simply open the index.html file in a web browser, remember to keep index.html and script.js files in the same directory.
